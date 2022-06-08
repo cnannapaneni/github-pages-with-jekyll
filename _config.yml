@@ -3,13 +3,11 @@ title: Charitha Nannapaneni's Blog
 author: Charitha Nannapaneni
 email: ncharitha26@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This is my final project for APCSA with Mr. Cohen. I am a very cool person, with very cool accomplishments.
 
 # social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  cnannapaneni # DO NOT include the @ character, or else the build will fail!
 instagram_username: c.npanini
+discord_username: charithahaha#9377
 
 show_excerpts: true # set to false to remove excerpts on the homepage
